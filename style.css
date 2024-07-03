@@ -99,6 +99,7 @@ footer{
      }
      footer {
        padding: 10px;
+       display: none;
      }
      .contact-container{
          text-align: left;
