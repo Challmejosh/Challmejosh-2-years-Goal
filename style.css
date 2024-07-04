@@ -45,14 +45,10 @@ li{
     display: flex;
     align-items: center;
     margin-bottom: 20px;
-    width: 200px;
-    height: 200px;
 }
 .slack-profile img{
     border-radius: 50%;
     margin-right: 15px;
-    width: 100%;
-    height: 100%;
 }
 #contact{
     margin: 0 auto;
@@ -109,8 +105,6 @@ footer{
      }
      .slack-profile img{
          border-radius: 50%;
-         width: 100%;
-         height: 100%;
      }
      .slack-profile{
          display: block;
