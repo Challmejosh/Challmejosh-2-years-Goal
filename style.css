@@ -48,6 +48,7 @@ li{
 }
 .slack-profile img{
     margin-right: 15px;
+    max-width: 100%;
 }
 #contact{
     margin: 0 auto;
