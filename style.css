@@ -98,9 +98,6 @@ footer{
        display: none;
      }
      .contact-container{
-         text-align: left;
-         align-items: center;
-         justify-content: center;
          padding: 1rem;
      }
      .slack-profile{
