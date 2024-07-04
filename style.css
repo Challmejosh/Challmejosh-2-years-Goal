@@ -105,7 +105,7 @@ footer{
      }
      .slack-profile{
          display: block;
-         align-items: left;
+         align-items: start;
      }
 
     }
